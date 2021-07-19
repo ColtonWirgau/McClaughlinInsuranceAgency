@@ -49,7 +49,7 @@
 }
 
 /* Dark Mode */
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
 	:root {
 		--bg-color-primary: var(--lightBlack);
 		--font-color-primary: var(--white);
@@ -67,7 +67,7 @@
 		--font-color-quarternary: var(--lightMainColor);
 		--border-color-quarternary: var(--pitchBlack);
 	}
-} */
+}
 
 html {
 	scroll-behavior: smooth;
