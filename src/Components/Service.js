@@ -8,7 +8,7 @@ const Service = ({ service }) => {
 			<div className="serviceInfo">
 				<h1>{service.name}</h1>
 				<p>{service.description}</p>
-				<form className="shortForm" data-netlify="true">
+				<form className="shortForm" data-netlify="true" name={`${service.name} Interest`}>
 					<label for="email">Email</label>
 					<input type="text" id="email" name="email" placeholder="example@email.com" required></input>
 					<input type="text" id="type" name="type" value={`${service.name}`} style={{ display: 'none' }}></input>
