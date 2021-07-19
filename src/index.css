@@ -753,6 +753,13 @@ input[type='submit'] {
 		align-items: center;
 		padding: 4em;
 	}
+	@media (prefers-color-scheme: dark) {
+		.serviceInfo {
+			z-index: 2;
+			background-color: hsla(0, 0%, 0%, 0.72);
+		}
+	}
+
 	.serviceInfo > p {
 		font-weight: 600;
 	}
