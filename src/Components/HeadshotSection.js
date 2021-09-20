@@ -11,8 +11,8 @@ function HeadshotSection() {
 					<div className="headshotCardMainText">Wendell McLaughlin</div>
 					<div className="headshotCardSubText cardSubText">McLaughlin Insurance Group</div>
 					<p id="headshotCardBlurb" className="headshotCardBlurb">
-						Ea eu esse tempor velit nulla amet officia laboris culpa voluptate adipisicing minim mollit laborum. Duis dolor fugiat esse eiusmod. Esse
-						irure ex dolor deserunt qui culpa laboris minim magna Lorem proident. Ut aliqua sunt eu ad.
+						I'm passionate about helping families and small businesses, not only understand the importance of knowing the insurance market through and
+						through, but also making sure they have the right products in place for themselves when they need them most.
 					</p>
 				</div>
 				<div className="btn cardBtn margin-top">Call me!</div>
