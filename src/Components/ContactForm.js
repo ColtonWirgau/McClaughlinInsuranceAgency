@@ -2,7 +2,8 @@ import React from 'react';
 
 const ContactForm = () => {
 	return (
-		<form name="contactForm" className="Contact Form" method="POST" data-netlify="true">
+		<form name="contactFormV1" className="Contact Form" method="POST" data-netlify="true">
+			<input type="hidden" name="form-name" value="contactFormV1"></input>
 			<label for="fname">First name</label>
 			<input type="text" id="fname" name="fname" required></input>
 			<label for="lname">Last name</label>
