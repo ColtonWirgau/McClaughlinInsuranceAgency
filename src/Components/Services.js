@@ -8,7 +8,7 @@ const services = [
 		id: 1,
 		link: 'WholeLifeInsurance',
 		name: 'Whole Life',
-		description: `Permanent insurance where you choose how long you want to pay a fixed price premium. You can rest in knowing that there is no expiration date and you are locked in to your rate. Some of the products we offer are a 10 pay, 20 pay, 30 pay, and paid up at 65. With these products, the quicker you pay them off, the higher the premium, but each product can be tailor made to your budget.`,
+		description: `Permanent insurance where you choose how long you want to pay a fixed price premium. You can rest in knowing that there is no expiration date and you are locked in to your rate. Some of the products we offer are a 10 pay, 20 pay, 30 pay, and paid up at 65. With these products, the quicker you pay them off, the higher the premium, but each product can be tailor made to your budget. As an independent agency, we work with top rated carriers who all have an A rating from A.M. Best and S&P to find the best rate for our client. Even if you've been turned down in the past, we have companies that will insure you.`,
 		image: image1,
 	},
 	{
