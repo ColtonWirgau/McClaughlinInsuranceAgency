@@ -531,7 +531,7 @@ input[type='submit'] {
 .headshotSectionContainer {
 	display: flex;
 	justify-content: space-between;
-	gap: 3%;
+	gap: 6%;
 }
 
 .headshotCard {
@@ -632,6 +632,7 @@ input[type='submit'] {
 }
 
 .contactFormContainer {
+	flex: 1;
 }
 
 .contactFormContainer h1 {
