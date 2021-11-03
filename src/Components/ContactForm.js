@@ -4,9 +4,9 @@ const ContactForm = () => {
 	return (
 		<form name="contactFormV1" data-netlify="true" onSubmit="submit" method="post" className="Contact Form">
 			<input type="hidden" name="form-name" value="contactFormV1" />
-			<label for="fname">First name</label>
+			<label for="fname">First</label>
 			<input type="text" id="fname" name="fname" required></input>
-			<label for="lname">Last name</label>
+			<label for="lname">Last</label>
 			<input type="text" id="lname" name="lname" required></input>
 			<label for="phone">Phone</label>
 			<input type="text" id="phone" name="phone" required></input>
