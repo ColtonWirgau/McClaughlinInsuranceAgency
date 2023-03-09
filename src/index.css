@@ -385,10 +385,10 @@ section {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	position: absolute;
+	position: sticky;
 	left: 0;
 	right: 0;
-	z-index: 5;
+	z-index: 200000;
 }
 
 header {
@@ -505,7 +505,7 @@ body > section:first-child {
 }
 
 body > section:last-child {
-	padding-bottom: calc(var(--footer-height) + (4 * var(--padding-bottom-std)));
+	padding-bottom: calc(var(--footer-height) + (8 * var(--padding-bottom-std)));
 }
 
 .card {
